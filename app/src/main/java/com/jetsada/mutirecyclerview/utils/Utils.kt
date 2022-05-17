@@ -1,4 +1,4 @@
-package com.jetsada.mutirecyclerview.Utils
+package com.jetsada.mutirecyclerview
 
 import android.app.Activity
 import android.net.Uri
